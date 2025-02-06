@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.1.21)  6 FEB 2025 08:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.1.21)  6 FEB 2025 09:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -496,52 +496,41 @@ Package pdftex.def Info: CApgemini zahlen.png  used on input line 44.
 <BU Germany CAP.png, id=200, 865.73438pt x 481.04718pt>
 File: BU Germany CAP.png Graphic file (type png)
 <use BU Germany CAP.png>
-Package pdftex.def Info: BU Germany CAP.png  used on input line 53.
+Package pdftex.def Info: BU Germany CAP.png  used on input line 54.
 (pdftex.def)             Requested size: 284.52756pt x 158.10011pt.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [5 <./CApgemini zahlen.png>] [6 <./BU Germany CAP.png>] [7] [8] [9] [10]
-[11] [12] [13]
-
-LaTeX Warning: Citation `prevezanos2013technisches ' on page 14 undefined on in
-put line 93.
-
-[14] (Praxisarbeit.bbl) [15] (Praxisarbeit.aux)
+[11] [12] [13] [14] (Praxisarbeit.bbl) [15] (Praxisarbeit.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `Praxisarbeit.out' has not changed.
 (rerunfilecheck)             Checksum: 6D0AA25966142A417FF353E37384B314;6407.
  ) 
 Here is how much of TeX's memory you used:
  12895 strings out of 474486
- 233882 string characters out of 5742339
+ 233917 string characters out of 5742339
  1938542 words of memory out of 5000000
  34981 multiletter control sequences out of 15000+600000
- 568895 words of font info for 58 fonts, out of 8000000 for 9000
+ 568119 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,7n,107p,10936b,459s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\mamykhai\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\t
 crm1200.pk> <C:\Users\mamykhai\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
 /dpi600\ecti1200.pk> <C:\Users\mamykhai\AppData\Local\MiKTeX\fonts/pk/ljfour/jk
-nappen/ec/dpi600\ecbx1200.pk> <C:\Users\mamykhai\AppData\Local\MiKTeX\fonts/pk/
-ljfour/jknappen/ec/dpi600\ecsx1440.pk> <C:\Users\mamykhai\AppData\Local\MiKTeX\
-fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1200.pk> <C:\Users\mamykhai\AppData\Loca
-l\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1728.pk> <C:\Users\mamykhai\App
-Data\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk> <C:\Users\mam
-ykhai\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx2488.pk> <C:\
-Users\mamykhai\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200
-.pk>
-Output written on Praxisarbeit.pdf (15 pages, 312103 bytes).
+nappen/ec/dpi600\ecsx1440.pk> <C:\Users\mamykhai\AppData\Local\MiKTeX\fonts/pk/
+ljfour/jknappen/ec/dpi600\ecsx1200.pk> <C:\Users\mamykhai\AppData\Local\MiKTeX\
+fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1728.pk> <C:\Users\mamykhai\AppData\Loca
+l\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk> <C:\Users\mamykhai\App
+Data\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx2488.pk> <C:\Users\mam
+ykhai\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk>
+Output written on Praxisarbeit.pdf (15 pages, 312933 bytes).
 PDF statistics:
  568 PDF objects out of 1000 (max. 8388607)
- 55 named destinations out of 1000 (max. 500000)
+ 56 named destinations out of 1000 (max. 500000)
  283 words of extra memory for PDF output out of 10000 (max. 10000000)
 
