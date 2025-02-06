@@ -7,9 +7,10 @@ Matthias Karmasin and Rainer Ribing.
   Diplomarbeiten sowie Dissertationen}, volume 2774.
 \newblock utb, 2017.
 
-\bibitem{prevezanos2013technisches}
-C.~Prevezanos.
-\newblock Technisches schreiben: F{\"u}r informatiker, akademiker, techniker
-  und den berufsalltag, 2013.
+\bibitem{example2025}
+Author Name.
+\newblock Example website.
+\newblock \url{https://www.example.com}, 2025.
+\newblock Accessed: 2025-02-06.
 
 \end{thebibliography}
