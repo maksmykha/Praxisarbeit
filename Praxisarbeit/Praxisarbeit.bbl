@@ -9,8 +9,6 @@ Matthias Karmasin and Rainer Ribing.
 
 \bibitem{example2025}
 Author Name.
-\newblock Example website.
-\newblock \url{https://www.example.com}, 2025.
-\newblock Accessed: 2025-02-06.
+\newblock Example website, 2025.
 
 \end{thebibliography}
