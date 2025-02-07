@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.1.21)  6 FEB 2025 19:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.1.21)  7 FEB 2025 19:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -493,21 +493,31 @@ File: CApgemini zahlen.png Graphic file (type png)
 <use CApgemini zahlen.png>
 Package pdftex.def Info: CApgemini zahlen.png  used on input line 44.
 (pdftex.def)             Requested size: 341.43306pt x 150.98091pt.
- [5 <./CApgemini zahlen.png>] [6] [7] [8]
-[9] [10] [11] [12] [13] [14] [15] [16] (Praxisarbeit.bbl) [17]
-(Praxisarbeit.aux)
+ [5 <./CApgemini zahlen.png>] [6] [7]
+<PLM.png, id=218, 408.77719pt x 380.92313pt>
+File: PLM.png Graphic file (type png)
+<use PLM.png>
+Package pdftex.def Info: PLM.png  used on input line 75.
+(pdftex.def)             Requested size: 341.43306pt x 318.183pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--81
+
+ []
+
+[8 <./PLM.png>] [9] [10] [11] [12] [13] [14] [15] [16] [17] (Praxisarbeit.bbl)
+[18] (Praxisarbeit.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `Praxisarbeit.out' has not changed.
-(rerunfilecheck)             Checksum: 6D0AA25966142A417FF353E37384B314;6407.
+(rerunfilecheck)             Checksum: 988C940EF908F9950A7C0B43B8C9D772;6407.
  ) 
 Here is how much of TeX's memory you used:
- 12890 strings out of 474486
- 233722 string characters out of 5742339
+ 12903 strings out of 474486
+ 233888 string characters out of 5742339
  1938542 words of memory out of 5000000
- 34974 multiletter control sequences out of 15000+600000
+ 34983 multiletter control sequences out of 15000+600000
  568895 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,7n,107p,10936b,527s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -522,9 +532,9 @@ Data\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk> <C:\Users\mam
 ykhai\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx2488.pk> <C:\
 Users\mamykhai\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200
 .pk>
-Output written on Praxisarbeit.pdf (17 pages, 247740 bytes).
+Output written on Praxisarbeit.pdf (18 pages, 362146 bytes).
 PDF statistics:
- 595 PDF objects out of 1000 (max. 8388607)
- 57 named destinations out of 1000 (max. 500000)
- 278 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 615 PDF objects out of 1000 (max. 8388607)
+ 61 named destinations out of 1000 (max. 500000)
+ 283 words of extra memory for PDF output out of 10000 (max. 10000000)
 
