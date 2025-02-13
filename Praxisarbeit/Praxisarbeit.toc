@@ -9,28 +9,28 @@
 \contentsline {subsubsection}{\numberline {2.1.2}Struktur und Organisation in Deutschland}{6}{subsubsection.2.1.2}%
 \contentsline {subsection}{\numberline {2.2}Definition des End-2-End-Prozesses}{8}{subsection.2.2}%
 \contentsline {subsubsection}{\numberline {2.2.1}Überblick des allgemeinen End-2-End-Prozesses}{8}{subsubsection.2.2.1}%
-\contentsline {subsubsection}{\numberline {2.2.2}End-2-End-Prozess bei Capgemini}{8}{subsubsection.2.2.2}%
-\contentsline {subsection}{\numberline {2.3}PLM-Systeme}{9}{subsection.2.3}%
-\contentsline {subsubsection}{\numberline {2.3.1}Allgemeine Übersicht der PLM-Systeme}{9}{subsubsection.2.3.1}%
-\contentsline {subsubsection}{\numberline {2.0.1}Vorstellung von verschiedenen Vendoren}{10}{subsubsection.2.0.1}%
-\contentsline {section}{\numberline {3}Durchführung}{11}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Phase 1: Sales}{11}{subsection.3.1}%
-\contentsline {subsubsection}{\numberline {3.1.1}Ausgangslage und Aufgabenstallung}{11}{subsubsection.3.1.1}%
-\contentsline {subsubsection}{\numberline {3.1.2}Anforderungen für die Erstellung der Demonstratorenübersicht}{11}{subsubsection.3.1.2}%
-\contentsline {subsubsection}{\numberline {3.1.3}Tools-Analyse}{11}{subsubsection.3.1.3}%
-\contentsline {subsubsection}{\numberline {3.1.4}Erstellung der Demonstratorenübersicht}{11}{subsubsection.3.1.4}%
-\contentsline {subsection}{\numberline {3.2}Phase 2: Staffing}{12}{subsection.3.2}%
-\contentsline {subsubsection}{\numberline {3.2.1}Relevanz der Staffing für Capgemini}{12}{subsubsection.3.2.1}%
-\contentsline {subsubsection}{\numberline {3.2.2}Ausgangslage und Aufgabenstellung}{12}{subsubsection.3.2.2}%
-\contentsline {subsubsection}{\numberline {3.2.3}Anforderungen fürs Reporting}{12}{subsubsection.3.2.3}%
-\contentsline {subsubsection}{\numberline {3.2.4}Umsetzung des Berichtswesen...}{12}{subsubsection.3.2.4}%
-\contentsline {subsection}{\numberline {3.3}Phase 3: Projektplanung}{13}{subsection.3.3}%
-\contentsline {subsection}{\numberline {3.4}Phase 4: Delivery}{14}{subsection.3.4}%
-\contentsline {subsection}{\numberline {3.5}Phase 5: Closure}{15}{subsection.3.5}%
-\contentsline {section}{\numberline {4}Auswertung}{16}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Validierung der Anforderung}{16}{subsection.4.1}%
-\contentsline {section}{\numberline {5}Ergebnisse und Diskussion}{17}{section.5}%
-\contentsline {section}{\numberline {6}Ausblick}{18}{section.6}%
-\contentsline {section}{\numberline {7}Anhang}{19}{section.7}%
-\contentsline {subsection}{\numberline {7.1}Anforderungen für das Showcase}{19}{subsection.7.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}End-2-End-Prozess bei Capgemini}{9}{subsubsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.3}PLM-Systeme}{10}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Allgemeine Übersicht der PLM-Systeme}{10}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.0.1}Vorstellung von verschiedenen Vendoren}{11}{subsubsection.2.0.1}%
+\contentsline {section}{\numberline {3}Durchführung}{12}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Phase 1: Sales}{12}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Ausgangslage und Aufgabenstallung}{12}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}Anforderungen für die Erstellung der Demonstratorenübersicht}{12}{subsubsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.3}Tools-Analyse}{12}{subsubsection.3.1.3}%
+\contentsline {subsubsection}{\numberline {3.1.4}Erstellung der Demonstratorenübersicht}{12}{subsubsection.3.1.4}%
+\contentsline {subsection}{\numberline {3.2}Phase 2: Staffing}{13}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Relevanz der Staffing für Capgemini}{13}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Ausgangslage und Aufgabenstellung}{13}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}Anforderungen fürs Reporting}{13}{subsubsection.3.2.3}%
+\contentsline {subsubsection}{\numberline {3.2.4}Umsetzung des Berichtswesen...}{13}{subsubsection.3.2.4}%
+\contentsline {subsection}{\numberline {3.3}Phase 3: Projektplanung}{14}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Phase 4: Delivery}{15}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Phase 5: Closure}{16}{subsection.3.5}%
+\contentsline {section}{\numberline {4}Auswertung}{17}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Validierung der Anforderung}{17}{subsection.4.1}%
+\contentsline {section}{\numberline {5}Ergebnisse und Diskussion}{18}{section.5}%
+\contentsline {section}{\numberline {6}Ausblick}{19}{section.6}%
+\contentsline {section}{\numberline {7}Anhang}{20}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Anforderungen für das Showcase}{20}{subsection.7.1}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
