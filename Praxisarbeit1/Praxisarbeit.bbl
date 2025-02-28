@@ -1,4 +1,9 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
+
+\bibitem{Aras}
+Aras.
+\newblock An application platform for modern product lifecycle management,
+  2025.
 
 \bibitem{Capgemini_allgemein}
 Capgemini.
@@ -20,16 +25,37 @@ Capgemini.
 Capgemini.
 \newblock Unternehmensmarke sogeti, 2024.
 
+\bibitem{PTC}
+Parametric~Technology Corparation.
+\newblock Companies that make products the world relies on, rely on ptc, 2025.
+
+\bibitem{PLM1}
+Gartner.
+\newblock Plm software in discrete manufacturing industries reviews, 2024.
+
 \bibitem{ozturk2019product}
 Fatih {\"O}zt{\"u}rk and Adem Kayar.
-\newblock{\em Product lifecycle management in smart factories: industry 4.0
-applications. In Proceedings of 10th international symposium on intelligent
+\newblock Product lifecycle management in smart factories: industry 4.0
+  applications.
+\newblock In {\em Proceedings of 10th international symposium on intelligent
   manufacturing and service systems. Istanbul/Turkey}, 2019.
+
+\bibitem{Siemens}
+Siemens Digital~Industries Software.
+\newblock Transform the everyday with software from siemens, 2025.
 
 \bibitem{stark2011product}
 John Stark.
 \newblock {\em Product lifecycle management}.
 \newblock Springer, 2011.
+
+\bibitem{Dessault}
+Dassault Systèmes.
+\newblock Was ist dassault systèmes?, 2025.
+
+\bibitem{Top10PLMVendoren}
+Apps~Run the World.
+\newblock Top 10 plm and engineering software vendors, 2024.
 
 \bibitem{timinger2024modernes}
 H.~Timinger.

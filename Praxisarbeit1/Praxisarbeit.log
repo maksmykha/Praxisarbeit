@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.1.21)  24 FEB 2025 08:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.1.21)  26 FEB 2025 10:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -380,24 +380,24 @@ File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 ) (Praxisarbeit.aux)
 \openout1 = `Praxisarbeit.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
 
 (C:\Users\mamykhai\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf
 .mkii
@@ -435,7 +435,7 @@ Package color Info: Driver file: pdftex.def on input line 149.
 
 (C:\Users\mamykhai\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.l
 tx))
-Package hyperref Info: Link coloring ON on input line 22.
+Package hyperref Info: Link coloring ON on input line 24.
  (Praxisarbeit.out) (Praxisarbeit.out)
 \@outlinefile=\write3
 \openout3 = `Praxisarbeit.out'.
@@ -462,17 +462,17 @@ Class scrartcl Warning: Trying emergency fix for bookmark level gap,
 (scrartcl)              known level (1).
 (scrartcl)              Note: This fix can fail and you should load
 (scrartcl)              package `bookmark' to avoid usage of this
-(scrartcl)              fix on input line 22.
+(scrartcl)              fix on input line 24.
 
 LaTeX Font Info:    Trying to load font information for T1+cmss on input line 2
-4.
+6.
 (C:\Users\mamykhai\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmss.fd
 File: t1cmss.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <17.28> on input line 24.
+(Font)              <17.28> on input line 26.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 24.
+(Font)              <12> on input line 26.
 
 [1
 
@@ -491,58 +491,46 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 <CApgemini zahlen.png, id=193, 572.1375pt x 629.35126pt>
 File: CApgemini zahlen.png Graphic file (type png)
 <use CApgemini zahlen.png>
-Package pdftex.def Info: CApgemini zahlen.png  used on input line 44.
+Package pdftex.def Info: CApgemini zahlen.png  used on input line 46.
 (pdftex.def)             Requested size: 227.62204pt x 250.382pt.
  [6 <./CApgemini zahlen.png>]
 <Drawing.png, id=214, 720.6925pt x 127.47626pt>
 File: Drawing.png Graphic file (type png)
 <use Drawing.png>
-Package pdftex.def Info: Drawing.png  used on input line 69.
+Package pdftex.def Info: Drawing.png  used on input line 71.
 (pdftex.def)             Requested size: 341.43306pt x 60.39233pt.
  [7 <./Drawing.png>]
 <Projektmanagement_Capgemini .png, id=232, 1021.8175pt x 179.16937pt>
 File: Projektmanagement_Capgemini .png Graphic file (type png)
 <use Projektmanagement_Capgemini .png>
 Package pdftex.def Info: Projektmanagement_Capgemini .png  used on input line 9
-3.
+5.
 (pdftex.def)             Requested size: 341.43306pt x 59.86696pt.
  [8 <./Projektmanagement_Capgemini .png>]
 <PLM.png, id=248, 629.35126pt x 438.13687pt>
 File: PLM.png Graphic file (type png)
 <use PLM.png>
-Package pdftex.def Info: PLM.png  used on input line 117.
+Package pdftex.def Info: PLM.png  used on input line 119.
 (pdftex.def)             Requested size: 341.43306pt x 237.69347pt.
  [9]
-Underfull \hbox (badness 10000) in paragraph at lines 129--135
+Underfull \hbox (badness 10000) in paragraph at lines 131--137
 
  []
 
-[10 <./PLM.png>]
-
-LaTeX Warning: Citation `PLM' on page 11 undefined on input line 136.
-
-
-LaTeX Warning: Citation `Top10PLMVendoren' on page 11 undefined on input line 1
-37.
-
-[11] [12] [13] [14] [15] [16] [17] [18] [19] (Praxisarbeit.bbl) [20]
-(Praxisarbeit.aux)
+[10 <./PLM.png>] [11] [12] [13] [14] [15] [16] [17] [18] [19] (Praxisarbeit.bbl
+) [20] (Praxisarbeit.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `Praxisarbeit.out' has not changed.
 (rerunfilecheck)             Checksum: 0078D4D37FE166E1B8FA5DD955C4B26E;5958.
  ) 
 Here is how much of TeX's memory you used:
- 12956 strings out of 474486
- 234754 string characters out of 5742339
+ 12968 strings out of 474486
+ 234880 string characters out of 5742339
  1937542 words of memory out of 5000000
- 35006 multiletter control sequences out of 15000+600000
+ 35012 multiletter control sequences out of 15000+600000
  569594 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,7n,107p,10936b,544s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -558,9 +546,9 @@ ykhai\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk> <C:\
 Users\mamykhai\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx2488
 .pk> <C:\Users\mamykhai\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600
 \ecrm1200.pk>
-Output written on Praxisarbeit.pdf (20 pages, 277449 bytes).
+Output written on Praxisarbeit.pdf (20 pages, 283473 bytes).
 PDF statistics:
- 740 PDF objects out of 1000 (max. 8388607)
- 90 named destinations out of 1000 (max. 500000)
+ 761 PDF objects out of 1000 (max. 8388607)
+ 96 named destinations out of 1000 (max. 500000)
  277 words of extra memory for PDF output out of 10000 (max. 10000000)
 
