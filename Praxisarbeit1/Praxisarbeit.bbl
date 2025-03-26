@@ -5,6 +5,12 @@ Aras.
 \newblock An application platform for modern product lifecycle management,
   2025.
 
+\bibitem{aro2023using}
+Ismo Aro.
+\newblock Using digital dashboards and kpis for visually managing a consulting
+  company with shared ownership.
+\newblock 2023.
+
 \bibitem{Capgemini_allgemein}
 Capgemini.
 \newblock Full-year 2024 results, 2024.
@@ -33,12 +39,25 @@ Parametric~Technology Corparation.
 Gartner.
 \newblock Plm software in discrete manufacturing industries reviews, 2024.
 
+\bibitem{kald2000performance}
+Magnus Kald and Fredrik Nilsson.
+\newblock Performance measurement at nordic companies.
+\newblock {\em European Management Journal}, 18(1):113--127, 2000.
+
+\bibitem{Power_bi}
+Microsoft.
+\newblock Power bi, 2025.
+
 \bibitem{ozturk2019product}
 Fatih {\"O}zt{\"u}rk and Adem Kayar.
 \newblock Product lifecycle management in smart factories: industry 4.0
   applications.
 \newblock In {\em Proceedings of 10th international symposium on intelligent
   manufacturing and service systems. Istanbul/Turkey}, 2019.
+
+\bibitem{Tableua}
+Salesforce.
+\newblock Ptableau, 2025.
 
 \bibitem{Siemens}
 Siemens Digital~Industries Software.

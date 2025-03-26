@@ -27,45 +27,50 @@ Warning--entry type for "Siemens" isn't style-file defined
 --line 195 of file Praxisarbeit.bib
 Warning--entry type for "Aras" isn't style-file defined
 --line 209 of file Praxisarbeit.bib
-You've used 15 entries,
+Warning--entry type for "Power_BI" isn't style-file defined
+--line 263 of file Praxisarbeit.bib
+Warning--entry type for "Tableua" isn't style-file defined
+--line 277 of file Praxisarbeit.bib
+Warning--empty journal in aro2023using
+You've used 19 entries,
             2118 wiz_defined-function locations,
-            557 strings with 5421 characters,
-and the built_in function-call counts, 3144 in all, are:
-= -- 270
-> -- 117
+            577 strings with 5753 characters,
+and the built_in function-call counts, 4074 in all, are:
+= -- 358
+> -- 151
 < -- 0
-+ -- 50
-- -- 34
-* -- 109
-:= -- 528
-add.period$ -- 34
-call.type$ -- 15
-change.case$ -- 59
++ -- 64
+- -- 44
+* -- 155
+:= -- 685
+add.period$ -- 44
+call.type$ -- 19
+change.case$ -- 76
 chr.to.int$ -- 0
-cite$ -- 15
-duplicate$ -- 127
-empty$ -- 337
-format.name$ -- 34
-if$ -- 678
+cite$ -- 20
+duplicate$ -- 162
+empty$ -- 425
+format.name$ -- 44
+if$ -- 872
 int.to.chr$ -- 0
-int.to.str$ -- 15
-missing$ -- 7
-newline$ -- 67
-num.names$ -- 30
-pop$ -- 133
+int.to.str$ -- 19
+missing$ -- 9
+newline$ -- 85
+num.names$ -- 38
+pop$ -- 160
 preamble$ -- 1
-purify$ -- 47
+purify$ -- 60
 quote$ -- 0
-skip$ -- 114
+skip$ -- 145
 stack$ -- 0
-substring$ -- 76
-swap$ -- 16
+substring$ -- 121
+swap$ -- 19
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 54
-warning$ -- 0
-while$ -- 30
-width$ -- 17
-write$ -- 130
-(There were 11 warnings)
+type$ -- 70
+warning$ -- 1
+while$ -- 40
+width$ -- 21
+write$ -- 166
+(There were 14 warnings)
