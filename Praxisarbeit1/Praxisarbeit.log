@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.2.28)  28 MAR 2025 13:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.2.28)  28 MAR 2025 19:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -520,58 +520,58 @@ Underfull \hbox (badness 10000) in paragraph at lines 133--139
 
  []
 
-[10 <./PLM.png>] [11] [12]
-Underfull \hbox (badness 10000) in paragraph at lines 182--184
+[10 <./PLM.png>] [11] [12] [13]
+Underfull \hbox (badness 10000) in paragraph at lines 184--186
 
  []
 
-[13]
-Underfull \hbox (badness 1005) in paragraph at lines 187--187
+
+Underfull \hbox (badness 1005) in paragraph at lines 189--189
 []|\T1/cmr/m/n/12 Einfach zu be-die-nen, be-son-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 187--187
+Underfull \hbox (badness 10000) in paragraph at lines 189--189
 \T1/cmr/m/n/12 ders für Microsoft/Excel-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 188--188
+Underfull \hbox (badness 10000) in paragraph at lines 190--190
 []|\T1/cmr/m/n/12 enge In-te-gra-ti-on mit
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 188--188
+Underfull \hbox (badness 10000) in paragraph at lines 190--190
 []|\T1/cmr/m/n/12 Unterstützt vie-le Da-ten-
  []
 
 
-Underfull \hbox (badness 3769) in paragraph at lines 188--188
+Underfull \hbox (badness 3769) in paragraph at lines 190--190
 \T1/cmr/m/n/12 quel-len, gut für Salesforce-
  []
 
 
-Underfull \hbox (badness 3965) in paragraph at lines 189--189
+Underfull \hbox (badness 3965) in paragraph at lines 191--191
 []|\T1/cmr/m/n/12 Gute Vi-sua-li-sie-run-gen, aber
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 189--189
+Underfull \hbox (badness 10000) in paragraph at lines 191--191
 []|\T1/cmr/m/n/12 Herausragende Vi-sua-li-sie-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 189--189
+Underfull \hbox (badness 10000) in paragraph at lines 191--191
 \T1/cmr/m/n/12 rungs-mög-lich-kei-ten mit
  []
 
 
-Underfull \hbox (badness 1874) in paragraph at lines 190--190
+Underfull \hbox (badness 1874) in paragraph at lines 192--192
 \T1/cmr/m/n/12 ge-mi-ni als PArt-ner-un-ter-neh-
  []
 
 
-Overfull \hbox (44.71309pt too wide) in alignment at lines 184--194
+Overfull \hbox (44.71309pt too wide) in alignment at lines 186--196
  [] [] [] 
  []
 
@@ -585,13 +585,13 @@ Package rerunfilecheck Info: File `Praxisarbeit.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 13413 strings out of 474486
- 240991 string characters out of 5743755
- 1939542 words of memory out of 5000000
- 35433 multiletter control sequences out of 15000+600000
+ 13415 strings out of 474486
+ 241021 string characters out of 5743755
+ 1938542 words of memory out of 5000000
+ 35435 multiletter control sequences out of 15000+600000
  569594 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 108i,8n,107p,10936b,544s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 108i,7n,107p,10936b,557s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\mykha\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti
 1200.pk> <C:\Users\mykha\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
 0\ecbi1200.pk> <C:\Users\mykha\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
@@ -607,9 +607,9 @@ ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/User
 s/mykha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
 <C:/Users/mykha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
 sy10.pfb>
-Output written on Praxisarbeit.pdf (23 pages, 329063 bytes).
+Output written on Praxisarbeit.pdf (23 pages, 330173 bytes).
 PDF statistics:
- 810 PDF objects out of 1000 (max. 8388607)
+ 811 PDF objects out of 1000 (max. 8388607)
  107 named destinations out of 1000 (max. 500000)
  277 words of extra memory for PDF output out of 10000 (max. 10000000)
 
