@@ -11,6 +11,10 @@ Ismo Aro.
   company with shared ownership.
 \newblock 2023.
 
+\bibitem{Confluence}
+Atlassian.
+\newblock Confluence, 2025.
+
 \bibitem{Capgemini_allgemein}
 Capgemini.
 \newblock Full-year 2024 results, 2024.
@@ -48,9 +52,22 @@ Magnus Kald and Fredrik Nilsson.
 Microsoft.
 \newblock Datenanalyseausdrücke (dax), 2025.
 
+\bibitem{List}
+Microsoft.
+\newblock Microsoft lists, 2025.
+
 \bibitem{Power_bi}
 Microsoft.
 \newblock Power bi, 2025.
+
+\bibitem{SharePoint}
+Microsoft.
+\newblock Sharepoint, 2025.
+
+\bibitem{muhonen2013qualification}
+Markus Muhonen.
+\newblock Qualification and software demonstration as part of sales process.
+\newblock 2013.
 
 \bibitem{ozturk2019product}
 Fatih {\"O}zt{\"u}rk and Adem Kayar.
@@ -61,7 +78,7 @@ Fatih {\"O}zt{\"u}rk and Adem Kayar.
 
 \bibitem{Tableua}
 Salesforce.
-\newblock Ptableau, 2025.
+\newblock Tableau, 2025.
 
 \bibitem{Siemens}
 Siemens Digital~Industries Software.

@@ -160,30 +160,46 @@ Im Jahr 2023 wuchs der globale Markt für Product Lifecycle Management und Engin
 	\end{itemize}
 	Capgemini bietet umfassende Beratungs- und Implementierungsdienste für spezifische PLM-Systeme an, die auf die individuellen Bedürfnisse und Anforderungen der Kunden zugeschnitten sind. 
 	\newpage
-	\section{Durchführung}
-	\subsection{Phase 1: Kundenerwerbung} 
-Auf dem Markt existieren diverste Anzahl von IT-Beratung von kleinen Boutiquen zu großen Unternehmen wie Capgemini und alle versuche die Kunden zu erwerben. Dafür wird diverse Möglichkeiten genutzt, wie z.B. Vertragsarten 
-	\subsubsection{Ausgangslage und Aufgabenstallung} %Ich beschäftige mich mit der Showcase für die Kunden um das Projekt zu kriegen.
-Capgemini ist ein großes Unternehmen mit verschiedenen Einheiten, die, wie bereits beschrieben, teilweise ähnliche Tätigkeiten ausführen. Die untersuchte Abteilung bei zentrelen Capgemmini\cite{Capgemini} "Product Lifecycle Management/Digital Manufacturing" verfügt über einige PLM-Demonstratoren, genauso wie andere Abteilungen in unterschiedlichen Einheiten. Allerdings besteht nur ein begrenztes Wissen über die Demonstratoren anderer Einheiten.\newline
-Das Ziel des Managements ist es, eine zentrale Übersicht über alle vorhandenen PLM-Demonstratoren zu erstellen, um allen Mitarbeitern den Zugriff darauf zu ermöglichen. Dies soll nicht nur die Transparenz innerhalb des Unternehmens erhöhen, sondern auch die Kommunikation und Zusammenarbeit zwischen den Einheiten stärken.
-	\subsubsection{Anforderungen für die Erstellung der Demonstratorenübersicht} %welche versionen die Demonstratoren haben, Ziel des Demonstrators, Beschreibungen etc.
-	\subsubsection{Tools-Analyse}%Welche Tools gibt und welche sind geeignet für meinen Demostrator(Beschränung von Unternehmen betrachten)
-	\subsubsection{Erstellung der Demonstratorenübersicht}
-	
-	\subsection{Phase 2: Definition}
-	\subsection{Phase: Planung}
-Die Phase ist der Wichtigste. Hier ist das Projekt mit den Kunden definiert und lagfristige Ziele festgestellt. Jetzt muss das Unternehmen Capgemini diese Ziele umsetzt. DAfür wählt Staffing die Mitarbeiter mit verschiedenen fürs Projekt benötigten Rollen aus\cite{wegmann2006projektmanagement}. 
+	\section{Phase 1: Kundenerwerbung} 
+Auf dem Markt existiert eine vielfältige Anzahl von IT-Beratungsunternehmen, die von kleinen Boutique-Firmen bis hin zu großen Unternehmen wie Capgemini reichen. Alle Anbieter verfolgen das Ziel, Kunden zu gewinnen, und nutzen dafür unterschiedliche Ansätze, beispielsweise attraktive Verträge mit geringen Kosten und minimalem Risiko für die Kunden oder herausragende Präsentationen ihrer Arbeit mithilfe von Demonstratoren\cite{muhonen2013qualification}.
+	\subsection{Ausgangslage und Aufgabenstallung} %Ich beschäftige mich mit der Showcase für die Kunden um das Projekt zu kriegen.
+Capgemini ist ein großes Unternehmen mit verschiedenen Einheiten, die, wie bereits beschrieben, teilweise ähnliche Tätigkeiten ausführen. Die zentrale Abteilung "Product Lifecycle Management/Digital Manufacturing" von Capgemini \cite{Capgemini} verfügt über einige PLM-Demonstratoren. Ähnliche Demonstratoren existieren jedoch auch in anderen Einheiten, über die die zentrale Abteilung nur begrenzt informiert ist.\newline
+Das Ziel des Managements ist es, eine zentrale Übersicht über alle vorhandenen PLM-Demonstratoren zu erstellen, damit alle Mitarbeitenden darauf zugreifen können. Dies soll nicht nur die Transparenz innerhalb des Unternehmens erhöhen, sondern auch die Kommunikation und Zusammenarbeit zwischen den verschiedenen Einheiten stärken.
+	\subsection{Anforderungen für die Erstellung der Demonstratorenübersicht} %welche versionen die Demonstratoren haben, Ziel des Demonstrators, Beschreibungen etc.
+Capgemini Deutschland vefügt über eine Vielzahl von Demonstratoren. Es soll eine toolgestützte Wiki-Übersicht erstellt werden, die verschiedene Analysemöglichkeiten bietet, wie etwa die Sortierung und Filterung der PLM-Demonstratoren nach Kriterien wie Vendoren oder Versionen.
+Zudem ist sicherzustellen, dass die Seite leicht auffindbar ist. Dafür sollte sie auf einer zentralen Plattform integriert werden, die allen Mitarbeitenden zugänglich ist und eine intuitive Navigation gewährleistet.
+	\subsection{Tools-Analyse}%Welche Tools gibt und welche sind geeignet für meinen Demostrator(Beschränung von Unternehmen betrachten)
+Es existiertz zahlreiche Tools, um eine solche Übersicht zu erstellen, darunter Wiki.js, Jira Confluence, Microsoft SharePoint, Zendesk, ClickUp und viele mehr. Allerdings verwendet Capgemini in der Regel die Produkte von Atlassian und Microsoft . Aus diesem Grund wird die Priorität auf Confluence\cite{Confluence} und SharePoint\cite{SharePoint} gelegt, um die Demonstratorenübersicht zu entwickeln. Beide Tools sind starke Tools mit verschiedenen zwar Focus.
+\newpage
+	\begin{longtable}{|p{4.5cm}|p{5.5cm}|p{5.5cm}|}
+		\hline
+		\textbf{Kriterium} & \textbf{Confluence} & \textbf{SharePoint} \\ \hline
+		\textbf{Wiki-Funktionalität} & Entwickelt als kollaborative Plattform für Wissensmanagement und Dokumentation & Kann als Wiki verwendet werden, aber primär für Dokumentenmanagement konzipiert \\ \hline
+		\textbf{Datenintegration} & Nahtlose Integration mit Jira und anderen Atlassian-Produkten sowie Microsoft-Teams & Enge Integration mit Microsoft-Produkten, wie Power BI, PowerPoint usw..\\ \hline
+		\textbf{Benutztfreundlichkeit} & Intuitiv und flexibel, ideal für Teams, die Inhalte gemeinsam bearbeiten & Komplexere Einrichtung, erfordert mehr Anpassung für Wiki-Zwecke\\ \hline
+		\textbf{Suchenfunktionen} &starke Suchfunktionen mit Tags und Kategorien & Gute Suchfunktionen, aber weniger intuitiv für Wiki-Inhalte. Möglichkeit leicht die Seite durch internes Internet finden  \\ \hline
+		\textbf{Kollaboration} &Echtzeit-Bearbeitung von Seiten und Kommentaren & wenig dynamisch, eher wie "branching" in GitHub \\ \hline
+		\caption{Vergleich zwischen Jira Confluence und Micorosoft SharePoint}
+	\end{longtable}
+Einerseits ist es von hoher Bedeutung, dass die geplante Seite über umfassende Analysemöglichkeiten verfügt, was durch den Einsatz von Confluence effizient umgesetzt werden kann. Andererseits ist die Auffindbarkeit der Seite ebenso entscheidend. Angesichts der bestehenden Infrastruktur bei Capgemini ist es naheliegend, zwei SharePoint-Plattformen miteinander zu verknüpfen, da dies technisch leicht umsetzbar ist. Danach kann die Seite mit der Übersicht schnell gefunden werden. Darüber hinaus bietet SharePoint eine enge Integration mit Microsoft-365-Diensten wie Power BI, wodurch ebenfalls erweiterte Analysemöglichkeiten sich schaffen lassen.
+	\subsection{Erstellung der Demonstratorenübersicht}
+Zunächst sollte eine zentrale Seite erstellt werden, die eine Einführung und Erklärung der Übersicht bereitstellt. Diese Seite dient als Einstiegspunkt und verweist auf die spezifischen Seiten der verschiedenen PLM-Vendoren mit ausführlichen Informationen über Demostratoren. Die ausführliche Information über jeden Demostrator besteht aus Abteilung, Kontaktpersonen, Fähigkeiten, Kompatibilität, zusätzliche Dokumentation usw.. Für die Umsetzung dieser strukturierten Informationsübersicht eignet sich das benutzerfreundliche Tool Microsoft Lists.\cite{List} Durch die Integration in die Microsoft-Umgebung ist zudem eine einfache Kollaboration und Pflege der Daten gewährleistet.\newline
+Ergänzend dazu kann Power BI \cite{Power_bi} die strukturierte Übersicht analysieren und umfangreiche Filtermöglichkeiten für Demonstratoren bieten. Dies unterstützt besonders bei der gezielten Suche und erleichtert die Navigation durch die Daten.
+Einige Demonstratoren bilden nur einen bestimmten Teil des gesamten E2E-PLM-Prozesses ab, doch besteht die Möglichkeit, dass sich mehrere Demonstratoren fusionieren lassen, um einen größeren Demonstrator zu schaffen. Diese Zusammenführung kann mithilfe der Ja/Nein-Funktion in Microsoft Lists gesteuert werden, wobei kann in jeder Phase des PLM-Prozesses eindeutig gekennzeichnet werden, ob ein Demonstrator die jeweilige Phase vorstellt.
+	\section{Phase 2: Definition}
+	\section{Phase 3: Planung}
+Die Phase ist von zentraler Bedeutung. Hier ist das Projekt mit den Kunden definiert und lagfristige Ziele sind festgestellt. Nach der Zielsetzung übernimmt Capgemini die Verantwortung für die Umsetzung. Dafür kommt das Staffing zum Einsatz, bei dem Mitarbeiter mit unterschiedlichen Rollen ausgewählt werden müssen, die speziell auf die Anforderungen des Projekts geeignet sind.\cite{wegmann2006projektmanagement}
 	%\subsubsection{Relevanz der Staffing für Capgemini}%was lebenswichtiges macht Christoph
-	\subsubsection{Ausgangslage und Aufgabenstellung}
-Wie in der Einleitung erwähnt, handelt es sich bei Capgemini um ein sehr großes IT-Beratungsunternehmen mit einer komplexen Struktur. Leistungskennzahlen (KPIs) werden üblicherweise als Instrumente zur Orientierung verwendet, um die Zielerreichung eines Unternehmens zu bewerten. In einem Unternehmen, das nach einem alternativen Paradigma strukturiert ist, könnten gängige KPIs jedoch weniger geeignet sein. Aufgrund der abweichenden Strukturierung des Unternehmens könnte es schwierig sein, einheitliche Leistungsindikatoren zu etablieren, die für alle Beteiligten gleichermaßen sinnvoll und aussagekräftig sind\cite{aro2023using}.
+	\subsection{Ausgangslage und Aufgabenstellung}
+Wie in der Einleitung erwähnt, handelt es sich bei Capgemini um ein sehr großes IT-Beratungsunternehmen mit einer komplexen Struktur. Leistungskennzahlen (KPIs) werden üblicherweise als Instrumente zur Orientierung verwendet, um die Zielerreichung eines Unternehmens zu bewerten. In einem Unternehmen, das nach einem alternativen Paradigma strukturiert ist, könnten gängige KPIs jeden könnte es schwierig sein, einheitliche Leistungsindikatoren zu etablieren, die für alle Beteiligten gleichermaßen sinnvoll und aussagekräftig sind\cite{aro2023using}.
 \newline
-Leistungskennzahlen (KPIs) werden häufig in finanzielle und nicht-finanzielle Kategorien unterteilt. Dieses Prinzip wird auch bei Capgemini angewandt und ist insbesondere für ein IT-Beratungsunternehmen von Bedeutung, da es sowohl interne Mitarbeiter als auch Consultants beschäftigt. Consultants, die direkt beim Kunden tätig sind, generieren in der Regel höhere Umsätze und sind daher mit höheren finanziellen KPIs verbunden. Im Gegensatz dazu tragen interne Mitarbeiter nicht direkt zur Umsatzgenerierung bei und weisen entsprechend niedrigere finanzielle KPIs auf, wobei ihre Leistung jedoch in anderen nicht-finanziellen Kategorien bewertet wird. Daher hat Capgemini eine Vielzahl von KPIs entwickelt, die die Leistung der Mitarbeiter aus unterschiedlichen Perspektiven betrachten und analysieren\cite{kald2000performance}.(hinzifügen 1996)
+Leistungskennzahlen (KPIs) werden häufig in finanzielle und nicht-finanzielle Kategorien unterteilt. Dieses Prinzip wird auch bei Capgemini angewandt und ist insbesondere für ein IT-Beratungsunternehmen von Bedeutung, da es sowohl interne Mitarbeiter als auch Consultants beschäftigt. Consultants, die direkt beim Kunden tätig sind, generieren in der Regel höhere Umsätze und sind daher mit höheren finanziellen KPIs verbunden. Im Gegensatz dazu tragen interne Mitarbeiter nicht direkt zur Umsatzgenerierung bei und weisen entsprechend niedrigere finanzielle KPIs auf, wobei ihre Leistung jedoch in anderen nicht-finanziellen Kategorien bewertet wird. Daher hat Capgemini eine Vielzahl von KPIs entwickelt, die die Leistung der Mitarbeiter aus unterschiedlichen Perspektiven betrachten und analysieren\cite{kald2000performance}.(hinzifügen 1996, Norton)
 \newline
 Das Management von Capgemini strebt eine klare und übersichtliche Darstellung aller KPIs an. Derzeit sind die in einer Excel-Datei gespeicherten KPIs unstrukturiert und erfordern manuelle Berechnungen, was die Effizienz verringert und potenziell zu Fehlern führen kann. Um diesem Problem entgegenzuwirken, ist es sinnvoll, einen visualisierten und automatisierten Bericht zu erstellen. Ein solcher Bericht sollte es ermöglichen, die KPIs auf verschiedenen Ebenen zu analysieren und darzustellen.
-	\subsubsection{Anforderungen fürs Reporting}
-Eine solche Darstellung lässt sich mithilfe von Business-Intelligence-Tools wie Power BI \cite{Power_bi} oder Tableau \cite{Tableua} realisieren. Obwohl Tableau im Bereich der Datenvisualisierung über fortschrittlichere Funktionen verfügt, bevorzugt Capgemini den Einsatz von Power BI. Dies liegt an dessen der Integration mit anderen Microsoft-Produkten sowie den vergleichsweise niedrigeren Kosten.
+	\subsection{Anforderungen fürs Reporting}
+Eine solche Darstellung lässt sich mithilfe von Business-Intelligence-Tools wie Power BI \cite{Power_bi} oder Tableau \cite{Tableua} realisieren. Obwohl Tableau im Bereich der Datenvisualisierung über fortschrittlichere Funktionen verfügt, bevorzugt Capgemini den Einsatz von Power BI. Dies liegt an dessen der Integration mit anderen Microsoft-Produkten sowie den vergleichsweise niedrigeren Kosten.-
 	\newline
-\begin{longtable}{|p{5cm}|p{5.5cm}|p{5.5cm}|}
+\begin{longtable}{|p{4.5cm}|p{5.5cm}|p{5.5cm}|}
 	\hline
 	\textbf{Kriterium} & \textbf{Power BI} & \textbf{Tableau} \\ \hline
 	\textbf{Benutzerfreundlichkeit} & Einfach zu bedienen, besonders für Microsoft/Excel-Nutzer. & Intuitiv, ideal für explorative Analysen. \\ \hline
@@ -197,7 +213,7 @@ Eine solche Darstellung lässt sich mithilfe von Business-Intelligence-Tools wie
 Die bereitgestellte Datenquelle mit den monatlich gebuchten Arbeitszeiten der Mitarbeiter gibt die Grundlage zur Berechnung der verschiedenen KPIs. Diese müssen zunächst entsprechend den Anforderungen transformiert und aufbereitet werden. Anschließend können die berechneten KPIs in einer visualisierten Darstellung präsentiert werden, die sich flexibel auf unterschiedlichen Ebenen analysieren lässt, z. B. nach Abteilungen, Teams, individuellen Mitarbeitern oder Zeit.\newline
 Das Management möchte außerdem die Berichte mit den Teamleitern teilen.
 Um die Berichte auch sicher mit den Teamleitern zu teilen, ist die Entwicklung eines umfassenden Berechtigungskonzepts wichtig. Dieses Konzept sollte sicherstellen, dass nur autorisierte Personen Zugriff auf die entsprechenden Daten und Berichte erhalten.
-	\subsubsection{Umsetzung des Berichtswesen...}
+	\subsection{Umsetzung des Berichtswesen...}
 Um die gebuchten Zeiten in eine einheitliche Kennzahl, das Vollzeitäquivalent (FTE), umzuwandeln, wird die folgende Formel angewendet:
 \[ KPI\_FTE = \frac{gebuchte\_Zeit}{Arbeitstage\_im\_Monat \cdot 8} \] Hierbei:
 \begin{itemize}
@@ -215,11 +231,11 @@ Ergänzend dazu wurde Darstellung für den Vergleich von Vorjahr und aktuellem J
 Zudem möchte das Management die Entwicklung des Teams im Laufe des Jahres im Hinblick auf Leavers (Austritte) und Joiners (Eintritte) nachvollziehen. Da die verfügbare Datenquelle solche Informationen nicht direkt enthält, müssen diese aus den bestehenden Datenquellen abgeleitet werden. Dazu wird analysiert, in welchem Monat eine Person erstmalig oder zuletzt in den Daten erscheint. Auf Basis dieser Informationen können dann die Daten für Leavers und Joiners extrahiert und entsprechend dargestellt werden.
 
 	\newpage
-	\subsection{Phase 4: Start}
+	\section{Phase 4: Start}
 	\newpage
-	\subsection{Phase 5: Implementierungsphase}
+	\section{Phase 5: Implementierungsphase}
 	\newpage
-	\subsection{Phase 6: Closure}
+	\section{Phase 6: Closure}
 	\newpage
 	\section{Auswertung}
 	\subsection{Validierung der Anforderung}%für PLM

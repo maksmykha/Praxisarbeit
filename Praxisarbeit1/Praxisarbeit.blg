@@ -33,46 +33,53 @@ Warning--entry type for "Tableua" isn't style-file defined
 --line 277 of file Praxisarbeit.bib
 Warning--entry type for "DAX" isn't style-file defined
 --line 289 of file Praxisarbeit.bib
+Warning--entry type for "Confluence" isn't style-file defined
+--line 333 of file Praxisarbeit.bib
+Warning--entry type for "SharePoint" isn't style-file defined
+--line 347 of file Praxisarbeit.bib
+Warning--entry type for "List" isn't style-file defined
+--line 361 of file Praxisarbeit.bib
 Warning--empty journal in aro2023using
-You've used 20 entries,
+Warning--empty journal in muhonen2013qualification
+You've used 24 entries,
             2118 wiz_defined-function locations,
-            580 strings with 5787 characters,
-and the built_in function-call counts, 4271 in all, are:
-= -- 375
-> -- 158
+            593 strings with 6003 characters,
+and the built_in function-call counts, 5065 in all, are:
+= -- 445
+> -- 186
 < -- 0
-+ -- 67
-- -- 46
-* -- 161
-:= -- 717
-add.period$ -- 46
-call.type$ -- 20
-change.case$ -- 80
++ -- 79
+- -- 54
+* -- 187
+:= -- 851
+add.period$ -- 55
+call.type$ -- 24
+change.case$ -- 96
 chr.to.int$ -- 0
-cite$ -- 21
-duplicate$ -- 169
-empty$ -- 447
-format.name$ -- 46
-if$ -- 915
+cite$ -- 26
+duplicate$ -- 200
+empty$ -- 530
+format.name$ -- 54
+if$ -- 1084
 int.to.chr$ -- 0
-int.to.str$ -- 20
-missing$ -- 9
-newline$ -- 89
-num.names$ -- 40
-pop$ -- 169
+int.to.str$ -- 24
+missing$ -- 10
+newline$ -- 106
+num.names$ -- 48
+pop$ -- 202
 preamble$ -- 1
-purify$ -- 63
+purify$ -- 75
 quote$ -- 0
-skip$ -- 153
+skip$ -- 184
 stack$ -- 0
-substring$ -- 126
-swap$ -- 20
+substring$ -- 146
+swap$ -- 23
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 74
-warning$ -- 1
-while$ -- 42
-width$ -- 22
-write$ -- 174
-(There were 15 warnings)
+type$ -- 90
+warning$ -- 2
+while$ -- 50
+width$ -- 26
+write$ -- 207
+(There were 19 warnings)

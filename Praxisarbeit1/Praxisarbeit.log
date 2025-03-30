@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.2.28)  28 MAR 2025 19:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.2.28)  30 MAR 2025 19:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -491,26 +491,26 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \openout4 = `Praxisarbeit.toc'.
 
  [3] [4] [5]
-<CApgemini zahlen.png, id=97, 572.1375pt x 629.35126pt>
+<CApgemini zahlen.png, id=95, 572.1375pt x 629.35126pt>
 File: CApgemini zahlen.png Graphic file (type png)
 <use CApgemini zahlen.png>
 Package pdftex.def Info: CApgemini zahlen.png  used on input line 48.
 (pdftex.def)             Requested size: 227.62204pt x 250.382pt.
  [6 <./CApgemini zahlen.png>]
-<Drawing.png, id=118, 720.6925pt x 127.47626pt>
+<Drawing.png, id=116, 720.6925pt x 127.47626pt>
 File: Drawing.png Graphic file (type png)
 <use Drawing.png>
 Package pdftex.def Info: Drawing.png  used on input line 73.
 (pdftex.def)             Requested size: 341.43306pt x 60.39233pt.
  [7 <./Drawing.png>]
-<Projektmanagement_Capgemini .png, id=136, 1021.8175pt x 179.16937pt>
+<Projektmanagement_Capgemini .png, id=134, 1021.8175pt x 179.16937pt>
 File: Projektmanagement_Capgemini .png Graphic file (type png)
 <use Projektmanagement_Capgemini .png>
 Package pdftex.def Info: Projektmanagement_Capgemini .png  used on input line 9
 7.
 (pdftex.def)             Requested size: 341.43306pt x 59.86696pt.
 [8 <./Projektmanagement_Capgemini .png>]
-<PLM.png, id=152, 629.35126pt x 438.13687pt>
+<PLM.png, id=150, 629.35126pt x 438.13687pt>
 File: PLM.png Graphic file (type png)
 <use PLM.png>
 Package pdftex.def Info: PLM.png  used on input line 121.
@@ -521,61 +521,131 @@ Underfull \hbox (badness 10000) in paragraph at lines 133--139
  []
 
 [10 <./PLM.png>] [11] [12] [13]
-Underfull \hbox (badness 10000) in paragraph at lines 184--186
+Underfull \hbox (badness 5217) in paragraph at lines 177--177
+[]|\T1/cmr/m/n/12 Entwickelt als kol-la-bo-ra-ti-ve
+ []
+
+
+Underfull \hbox (badness 1005) in paragraph at lines 178--178
+[]|\T1/cmr/m/n/12 Nahtlose In-te-gra-ti-on mit Ji-
+ []
+
+
+Underfull \hbox (badness 6173) in paragraph at lines 178--178
+\T1/cmr/m/n/12 ra und an-de-ren Atlassian-
+ []
+
+
+Underfull \hbox (badness 5504) in paragraph at lines 178--178
+\T1/cmr/m/n/12 Produkten so-wie Microsoft-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--178
+[]|\T1/cmr/m/n/12 Enge In-te-gra-ti-on mit
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--178
+\T1/cmr/m/n/12 Microsoft-Produkten, wie
+ []
+
+
+Underfull \hbox (badness 2096) in paragraph at lines 179--179
+[]|\T1/cmr/m/n/12 Komplexere Ein-rich-tung, er-
+ []
+
+
+Underfull \hbox (badness 1112) in paragraph at lines 179--179
+\T1/cmr/m/n/12 for-dert mehr An-pas-sung für
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--180
+[]|\T1/cmr/m/n/12 starke Such-funk-tio-nen mit
+ []
+
+
+Underfull \hbox (badness 2941) in paragraph at lines 180--180
+\T1/cmr/m/n/12 Mög-lich-keit leicht die Sei-te
+ []
+
+
+Underfull \hbox (badness 3769) in paragraph at lines 181--181
+[]|\T1/cmr/m/n/12 wenig dy-na-misch, eher wie
+ []
+
+
+Overfull \hbox (30.48671pt too wide) in alignment at lines 174--183
+ [] [] [] 
+ []
+
+[14] [15]
+Underfull \hbox (badness 10000) in paragraph at lines 200--202
 
  []
 
 
-Underfull \hbox (badness 1005) in paragraph at lines 189--189
+Overfull \hbox (6.06863pt too wide) in paragraph at lines 205--205
+[]|\T1/cmr/bx/n/12 Benutzerfreundlichkeit| 
+ []
+
+
+Underfull \hbox (badness 1005) in paragraph at lines 205--205
 []|\T1/cmr/m/n/12 Einfach zu be-die-nen, be-son-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 189--189
+Underfull \hbox (badness 10000) in paragraph at lines 205--205
 \T1/cmr/m/n/12 ders für Microsoft/Excel-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 190--190
+Underfull \hbox (badness 10000) in paragraph at lines 206--206
 []|\T1/cmr/m/n/12 enge In-te-gra-ti-on mit
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 190--190
+Underfull \hbox (badness 10000) in paragraph at lines 206--206
 []|\T1/cmr/m/n/12 Unterstützt vie-le Da-ten-
  []
 
 
-Underfull \hbox (badness 3769) in paragraph at lines 190--190
+Underfull \hbox (badness 3769) in paragraph at lines 206--206
 \T1/cmr/m/n/12 quel-len, gut für Salesforce-
  []
 
 
-Underfull \hbox (badness 3965) in paragraph at lines 191--191
+Underfull \hbox (badness 3965) in paragraph at lines 207--207
 []|\T1/cmr/m/n/12 Gute Vi-sua-li-sie-run-gen, aber
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 191--191
+Underfull \hbox (badness 10000) in paragraph at lines 207--207
 []|\T1/cmr/m/n/12 Herausragende Vi-sua-li-sie-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 191--191
+Underfull \hbox (badness 10000) in paragraph at lines 207--207
 \T1/cmr/m/n/12 rungs-mög-lich-kei-ten mit
  []
 
 
-Underfull \hbox (badness 1874) in paragraph at lines 192--192
+Underfull \hbox (badness 1874) in paragraph at lines 208--208
 \T1/cmr/m/n/12 ge-mi-ni als PArt-ner-un-ter-neh-
  []
 
 
-Overfull \hbox (44.71309pt too wide) in alignment at lines 186--196
+Overfull \hbox (0.84633pt too wide) in paragraph at lines 210--210
+[]|\T1/cmr/bx/n/12 Berechtigungskonzept| 
+ []
+
+
+Overfull \hbox (30.48671pt too wide) in alignment at lines 202--212
  [] [] [] 
  []
 
-[14] [15] [16] [17] [18] [19] [20] [21] [22] (Praxisarbeit.bbl) [23]
+[16] [17] [18] [19] [20] [21] [22] [23] [24] (Praxisarbeit.bbl [25]) [26]
 (Praxisarbeit.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
@@ -585,13 +655,13 @@ Package rerunfilecheck Info: File `Praxisarbeit.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 13415 strings out of 474486
- 241021 string characters out of 5743755
- 1938542 words of memory out of 5000000
- 35435 multiletter control sequences out of 15000+600000
+ 13427 strings out of 474486
+ 241116 string characters out of 5743755
+ 1939542 words of memory out of 5000000
+ 35440 multiletter control sequences out of 15000+600000
  569594 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 108i,7n,107p,10936b,557s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 108i,7n,107p,10936b,591s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\mykha\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti
 1200.pk> <C:\Users\mykha\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
 0\ecbi1200.pk> <C:\Users\mykha\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
@@ -607,9 +677,9 @@ ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/User
 s/mykha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
 <C:/Users/mykha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
 sy10.pfb>
-Output written on Praxisarbeit.pdf (23 pages, 330173 bytes).
+Output written on Praxisarbeit.pdf (26 pages, 344004 bytes).
 PDF statistics:
- 811 PDF objects out of 1000 (max. 8388607)
- 107 named destinations out of 1000 (max. 500000)
- 277 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 848 PDF objects out of 1000 (max. 8388607)
+ 114 named destinations out of 1000 (max. 500000)
+ 269 words of extra memory for PDF output out of 10000 (max. 10000000)
 
