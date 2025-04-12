@@ -1,0 +1,42 @@
+\chapter{Phase 3: Planung}
+Die Phase ist von zentraler Bedeutung. Hier ist das Projekt mit den Kunden definiert und lagfristige Ziele sind festgestellt. Nach der Zielsetzung übernimmt Capgemini die Verantwortung für die Umsetzung. Dafür kommt das Staffing zum Einsatz, bei dem Mitarbeiter mit unterschiedlichen Rollen ausgewählt werden müssen, die speziell auf die Anforderungen des Projekts geeignet sind.
+%\subsubsection{Relevanz der Staffing für Capgemini}%was lebenswichtiges macht Christoph
+\section{Ausgangslage und Aufgabenstellung}
+Wie in der Einleitung erwähnt, handelt es sich bei Capgemini um ein sehr großes IT-Beratungsunternehmen mit einer komplexen Struktur. Leistungskennzahlen (KPIs) werden üblicherweise als Instrumente zur Orientierung verwendet, um die Zielerreichung eines Unternehmens zu bewerten. In einem Unternehmen, das nach einem alternativen Paradigma strukturiert ist, könnten gängige KPIs jeden könnte es schwierig sein, einheitliche Leistungsindikatoren zu etablieren, die für alle Beteiligten gleichermaßen sinnvoll und aussagekräftig sind\cite{aro2023using}.
+\newline
+Leistungskennzahlen (KPIs) werden häufig in finanzielle und nicht-finanzielle Kategorien unterteilt. Dieses Prinzip wird auch bei Capgemini angewandt und ist insbesondere für ein IT-Beratungsunternehmen von Bedeutung, da es sowohl interne Mitarbeiter als auch Consultants beschäftigt. Consultants, die direkt beim Kunden tätig sind, generieren in der Regel höhere Umsätze und sind daher mit höheren finanziellen KPIs verbunden. Im Gegensatz dazu tragen interne Mitarbeiter nicht direkt zur Umsatzgenerierung bei und weisen entsprechend niedrigere finanzielle KPIs auf, wobei ihre Leistung jedoch in anderen nicht-finanziellen Kategorien bewertet wird. Daher hat Capgemini eine Vielzahl von KPIs entwickelt, die die Leistung der Mitarbeiter aus unterschiedlichen Perspektiven betrachten und analysieren\cite{kald2000performance}.(hinzifügen 1996, Norton)
+\newline
+Das Management von Capgemini strebt eine klare und übersichtliche Darstellung aller KPIs an. Derzeit sind die in einer Excel-Datei gespeicherten KPIs unstrukturiert und erfordern manuelle Berechnungen, was die Effizienz verringert und potenziell zu Fehlern führen kann. Um diesem Problem entgegenzuwirken, ist es sinnvoll, einen visualisierten und automatisierten Bericht zu erstellen. Ein solcher Bericht sollte es ermöglichen, die KPIs auf verschiedenen Ebenen zu analysieren und darzustellen.
+\section{Anforderungen fürs Reporting}
+Eine solche Darstellung lässt sich mithilfe von Business-Intelligence-Tools wie Power BI \cite{Power_BI} oder Tableau \cite{Tableua} realisieren. Obwohl Tableau im Bereich der Datenvisualisierung über fortschrittlichere Funktionen verfügt, bevorzugt Capgemini den Einsatz von Power BI. Dies liegt an dessen der Integration mit anderen Microsoft-Produkten sowie den vergleichsweise niedrigeren Kosten.-
+\newline
+\begin{longtable}{|p{4.5cm}|p{5.5cm}|p{5.5cm}|}
+	\hline
+	\textbf{Kriterium} & \textbf{Power BI} & \textbf{Tableau} \\ \hline
+	\textbf{Benutzerfreundlichkeit} & Einfach zu bedienen, besonders für Microsoft/Excel-Nutzer. & Intuitiv, ideal für explorative Analysen. \\ \hline
+	\textbf{Datenintegration} & enge Integration mit Microsoft-Produkten & Unterstützt viele Datenquellen, gut für Salesforce-Integration. \\ \hline
+	\textbf{Datenvisualisierung} & Gute Visualisierungen, aber weniger flexibel als Tableau. & Herausragende Visualisierungsmöglichkeiten mit interaktiven Dashboards. \\ \hline
+	\textbf{Kosten} & Günstiger, besonders für Capgemini als PArtnerunternehmen von Microsoft & Teur \\ \hline
+	\textbf{ETL-Prozess} & Integriertes Tool (Power Query) für Datenbereinigung und Transformation. & Externes Tool (Tableau Prep) für ETL-Prozesse. \\ \hline
+	\textbf{Berechtigungskonzept} & Hohe Flexibilität durch DAX-Ausdrücke. & Benutztfreundlich bei manuellen Filtern, aber für komplexen Szenarien weniger geeignet.\\ \hline
+	\caption{Vergleich zwischen Power BI und Tableau}
+\end{longtable}
+Die bereitgestellte Datenquelle mit den monatlich gebuchten Arbeitszeiten der Mitarbeiter gibt die Grundlage zur Berechnung der verschiedenen KPIs. Diese müssen zunächst entsprechend den Anforderungen transformiert und aufbereitet werden. Anschließend können die berechneten KPIs in einer visualisierten Darstellung präsentiert werden, die sich flexibel auf unterschiedlichen Ebenen analysieren lässt, z. B. nach Abteilungen, Teams, individuellen Mitarbeitern oder Zeit.\newline
+Das Management möchte außerdem die Berichte mit den Teamleitern teilen.
+Um die Berichte auch sicher mit den Teamleitern zu teilen, ist die Entwicklung eines umfassenden Berechtigungskonzepts wichtig. Dieses Konzept sollte sicherstellen, dass nur autorisierte Personen Zugriff auf die entsprechenden Daten und Berichte erhalten.
+\section{Umsetzung des Berichtswesen...}
+Um die gebuchten Zeiten in eine einheitliche Kennzahl, das Vollzeitäquivalent (FTE), umzuwandeln, wird die folgende Formel angewendet:
+\[ KPI\_FTE = \frac{gebuchte\_Zeit}{Arbeitstage\_im\_Monat \cdot 8} \] Hierbei:
+\begin{itemize}
+	\item \textbf{gebuchte\_Zeit} steht für die tatsächlichen Arbeitsstunden bzw. gebuchten Urlaub eines Mitarbeiters innerhalb eines Monats.
+	\item \textbf{Arbeitstage\_im\_Monat} bezeichnet die Anzahl der Werktage im jeweiligen Monat.
+	\item \textbf{8} ist Standardarbeitsstunden pro Tag.
+\end{itemize}
+Anschließend werden diverse Visualisierungen mithilfe von Balken- und Liniendiagrammen sowie Matrizen erstellt. Diese Darstellungen umfassen sowohl finanzielle als auch nicht-finanzielle KPIs und ermöglichen flexible Betrachtungen auf unterschiedlichen Ebenen.\newline
+Um Berichte für andere Personen freizugeben, sollte ein starkes Berechtigungskonzept entwickelt werden. Power BI hat dafür die integrierte Funktion "Row-Level-Security", mit der mithilfe von "Data Analysis Expressions" (DAX)\cite{DAX}, einer Formel- und Abfrageprogrammiersprache von Microsoft, die Daten individuell gefiltert werden können. So erhält beispielsweise jeder Teamleiter ausschließlich Zugriff auf die Daten, die seiner jeweiligen Person oder seinem Verantwortungsbereich zugeordnet sind. Die Formel besteht aus mehreren Überprüfungsschritten:
+\begin{enumerate}
+	\item Überprüft, ob die Person entweder eine Abteilungsleiterin oder ein Teamleiter ist, da Abteilungsleiter logischerweise umfassendere Daten einsehen dürfen. 
+	\item Stellt sicher, dass die Berechtigung die eigenen Daten der jeweiligen Person umfasst, sodass sie Zugriff auf ihre persönlichen Informationen hat.(Formel aus Power BI hinzufügen)
+\end{enumerate}
+Ergänzend dazu wurde Darstellung für den Vergleich von Vorjahr und aktuellem Jahr entwickelt, die aus drei Matrizen und einem Liniendiagramm besteht. Die Herausforderung besteht darin, dass die Anzeige stets das Vorjahr und das aktuelle Jahr gemäß den spezifischen Datenquellen berücksichtigt. Das heißt, ist die Formel  $today()$ nicht geeignet, da sie das heutige Datum verwendet und nicht auf der in den Datenquellen definierten Zeiträume abstimmt. Für die korrekte Darstellung der gewünschten Zeiträume war eine dynamische Lösung erforderlich, die sich an den in den Datenquellen gespeicherten Zeitspannen orientiert, beispielsweise eine Funktion, die die $max()$ und $max()-1$ Jahre in den Daten abruft und daraus die Zeiträume für den Vergleich ableitet.\newline
+Zudem möchte das Management die Entwicklung des Teams im Laufe des Jahres im Hinblick auf Leavers (Austritte) und Joiners (Eintritte) nachvollziehen. Da die verfügbare Datenquelle solche Informationen nicht direkt enthält, müssen diese aus den bestehenden Datenquellen abgeleitet werden. Dazu wird analysiert, in welchem Monat eine Person erstmalig oder zuletzt in den Daten erscheint. Auf Basis dieser Informationen können dann die Daten für Leavers und Joiners extrahiert und entsprechend dargestellt werden.

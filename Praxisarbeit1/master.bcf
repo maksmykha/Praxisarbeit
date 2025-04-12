@@ -172,7 +172,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>sortingtemplatename</bcf:key>
-      <bcf:value>nty</bcf:value>
+      <bcf:value>none</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>sortsets</bcf:key>
@@ -2358,6 +2358,64 @@
   <!-- CITATION DATA -->
   <!-- SECTION 0 -->
   <bcf:bibdata section="0">
-    <bcf:datasource type="file" datatype="bibtex" glob="false">Praxisarbeit.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex" glob="false">bibliography.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
+    <bcf:citekey order="5" intorder="1">Capgemini_allgemein</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">Capgemini_allgemein</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">Capgemini_invent</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">Capgemini</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">Capgemini_eng</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">Sogeti</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">timinger2024modernes</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">timinger2024modernes</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">timinger2024modernes</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">wegmann2006projektmanagement</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">wegmann2006projektmanagement</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">wegmann2006projektmanagement</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">wegmann2006projektmanagement</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">stark2011product</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">stark2011product</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">stark2011product</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">stark2011product</bcf:citekey>
+    <bcf:citekey order="22" intorder="1">stark2011product</bcf:citekey>
+    <bcf:citekey order="23" intorder="1">ozturk2019product</bcf:citekey>
+    <bcf:citekey order="24" intorder="1">PLM1</bcf:citekey>
+    <bcf:citekey order="25" intorder="1">Top10PLMVendoren</bcf:citekey>
+    <bcf:citekey order="26" intorder="1">Dessault</bcf:citekey>
+    <bcf:citekey order="27" intorder="1">PTC</bcf:citekey>
+    <bcf:citekey order="28" intorder="1">Siemens</bcf:citekey>
+    <bcf:citekey order="29" intorder="1">Aras</bcf:citekey>
+    <bcf:citekey order="30" intorder="1">muhonen2013qualification</bcf:citekey>
+    <bcf:citekey order="31" intorder="1">Capgemini</bcf:citekey>
+    <bcf:citekey order="32" intorder="1">Confluence</bcf:citekey>
+    <bcf:citekey order="33" intorder="1">SharePoint</bcf:citekey>
+    <bcf:citekey order="34" intorder="1">List</bcf:citekey>
+    <bcf:citekey order="35" intorder="1">Power_bi</bcf:citekey>
+    <bcf:citekey order="36" intorder="1">aro2023using</bcf:citekey>
+    <bcf:citekey order="37" intorder="1">kald2000performance</bcf:citekey>
+    <bcf:citekey order="38" intorder="1">Power_BI</bcf:citekey>
+    <bcf:citekey order="39" intorder="1">Tableua</bcf:citekey>
+    <bcf:citekey order="40" intorder="1">DAX</bcf:citekey>
+    <bcf:citekey order="41" intorder="1" nocite="1">*</bcf:citekey>
+  </bcf:section>
+  <!-- SORTING TEMPLATES -->
+  <bcf:sortingtemplate name="none">
+    <bcf:sort order="1">
+      <bcf:sortitem order="1">citeorder</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="2">
+      <bcf:sortitem order="1">intciteorder</bcf:sortitem>
+    </bcf:sort>
+  </bcf:sortingtemplate>
+  <!-- DATALISTS -->
+  <bcf:datalist section="0"
+                name="none/global//global/global"
+                type="entry"
+                sortingtemplatename="none"
+                sortingnamekeytemplatename="global"
+                labelprefix=""
+                uniquenametemplatename="global"
+                labelalphanametemplatename="global">
+  </bcf:datalist>
+</bcf:controlfile>
