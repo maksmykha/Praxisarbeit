@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.2.28)  12 APR 2025 18:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.2.28)  14 APR 2025 17:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1076,11 +1076,11 @@ lations-basic-dictionary')
 Package translations Info: loading dictionary `translations-basic-dictionary' f
 or `german'. on input line 128.
  (titlepage.tex
-<firmenlogo.jpeg, id=3, 456.70625pt x 111.41624pt>
-File: firmenlogo.jpeg Graphic file (type jpg)
-<use firmenlogo.jpeg>
-Package pdftex.def Info: firmenlogo.jpeg  used on input line 6.
-(pdftex.def)             Requested size: 114.17627pt x 27.85399pt.
+<Cap_logo.png, id=3, 1003.75pt x 259.97125pt>
+File: Cap_logo.png Graphic file (type png)
+<use Cap_logo.png>
+Package pdftex.def Info: Cap_logo.png  used on input line 6.
+(pdftex.def)             Requested size: 250.93689pt x 64.99265pt.
 <logo.jpg, id=4, 133.6995pt x 68.1747pt>
 File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
@@ -1100,8 +1100,8 @@ Overfull \hbox (6.44916pt too wide) in paragraph at lines 17--33
 [1
 
 
-{C:/Users/mykha/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./firmenlogo
-.jpeg> <./logo.jpg>]) (ewerkl.tex) [1
+{C:/Users/mykha/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./Cap_logo.p
+ng> <./logo.jpg>]) (ewerkl.tex) [1
 
 
 ] (acknowledge.tex) [2
@@ -1200,50 +1200,12 @@ chapter without number
 
 ] (acronyms.tex
 
-LaTeX Warning: Hyper reference `acro:ad' on page ix undefined on input line 7.
-
-
-LaTeX Warning: Hyper reference `acro:ad' on page ix undefined on input line 7.
-
-
-LaTeX Warning: Hyper reference `acro:BMBF' on page ix undefined on input line 8
+LaTeX Warning: Hyper reference `acro:DHBW' on page ix undefined on input line 7
 .
 
 
-LaTeX Warning: Hyper reference `acro:BMBF' on page ix undefined on input line 8
+LaTeX Warning: Hyper reference `acro:DHBW' on page ix undefined on input line 7
 .
-
-
-LaTeX Warning: Hyper reference `acro:DHBW' on page ix undefined on input line 9
-.
-
-
-LaTeX Warning: Hyper reference `acro:DHBW' on page ix undefined on input line 9
-.
-
-
-LaTeX Warning: Hyper reference `acro:ecu' on page ix undefined on input line 10
-.
-
-
-LaTeX Warning: Hyper reference `acro:ecu' on page ix undefined on input line 10
-.
-
-
-LaTeX Warning: Hyper reference `acro:eu' on page ix undefined on input line 11.
-
-
-
-LaTeX Warning: Hyper reference `acro:eu' on page ix undefined on input line 11.
-
-
-
-LaTeX Warning: Hyper reference `acro:RDBMS' on page ix undefined on input line 
-12.
-
-
-LaTeX Warning: Hyper reference `acro:RDBMS' on page ix undefined on input line 
-12.
 
 ) [9
 
@@ -1266,7 +1228,7 @@ l.1 \chapter
 
 ]
 chapter 2.
-<CApgemini zahlen.png, id=156, 572.1375pt x 629.35126pt>
+<CApgemini zahlen.png, id=152, 572.1375pt x 629.35126pt>
 File: CApgemini zahlen.png Graphic file (type png)
 <use CApgemini zahlen.png>
 Package pdftex.def Info: CApgemini zahlen.png  used on input line 6.
@@ -1279,13 +1241,13 @@ File: ts1cmss.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 [2
 
  <./CApgemini zahlen.png>]
-<Drawing.png, id=172, 720.6925pt x 127.47626pt>
+<Drawing.png, id=168, 720.6925pt x 127.47626pt>
 File: Drawing.png Graphic file (type png)
 <use Drawing.png>
 Package pdftex.def Info: Drawing.png  used on input line 31.
 (pdftex.def)             Requested size: 341.43306pt x 60.39233pt.
  [3 <./Drawing.png>]
-<Projektmanagement_Capgemini .png, id=188, 1021.8175pt x 179.16937pt>
+<Projektmanagement_Capgemini .png, id=184, 1021.8175pt x 179.16937pt>
 File: Projektmanagement_Capgemini .png Graphic file (type png)
 <use Projektmanagement_Capgemini .png>
 Package pdftex.def Info: Projektmanagement_Capgemini .png  used on input line 5
@@ -1296,7 +1258,7 @@ Package pdftex.def Info: Projektmanagement_Capgemini .png  used on input line 5
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [4] [5 <./Projektmanagement_Capgemini .png>]
-<PLM.png, id=214, 629.35126pt x 438.13687pt>
+<PLM.png, id=210, 629.35126pt x 438.13687pt>
 File: PLM.png Graphic file (type png)
 <use PLM.png>
 Package pdftex.def Info: PLM.png  used on input line 79.
@@ -1350,9 +1312,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 19--19
 Overfull \hbox (26.21886pt too wide) in alignment at lines 12--21
  [] [] [] 
  []
-
-
-LaTeX Warning: Citation 'Power_bi' on page 12 undefined on input line 25.
 
 ) (Definition.tex [12] [13]
 chapter 4.
@@ -1468,10 +1427,10 @@ Package logreq Info: Writing requests to 'master.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 29309 strings out of 474486
- 581997 string characters out of 5743755
- 1947542 words of memory out of 5000000
- 51073 multiletter control sequences out of 15000+600000
+ 29294 strings out of 474486
+ 582229 string characters out of 5743755
+ 1946542 words of memory out of 5000000
+ 51063 multiletter control sequences out of 15000+600000
  569938 words of font info for 58 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  108i,20n,107p,10903b,3070s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1491,9 +1450,9 @@ ykha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C
 :/Users/mykha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr1
 2.pfb><C:/Users/mykha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
 /cm/cmsy10.pfb>
-Output written on master.pdf (35 pages, 505436 bytes).
+Output written on master.pdf (35 pages, 518493 bytes).
 PDF statistics:
- 1029 PDF objects out of 1200 (max. 8388607)
- 131 named destinations out of 1000 (max. 500000)
+ 1023 PDF objects out of 1200 (max. 8388607)
+ 126 named destinations out of 1000 (max. 500000)
  303 words of extra memory for PDF output out of 10000 (max. 10000000)
 
