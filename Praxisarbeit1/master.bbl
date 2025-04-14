@@ -1,0 +1,729 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{Capgemini_allgemein}{online}{}
+      \name{author}{1}{}{%
+        {{hash=7473b077f4187b2262bbaffbf9741b60}{%
+           family={Capgemini},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{7473b077f4187b2262bbaffbf9741b60}
+      \strng{fullhash}{7473b077f4187b2262bbaffbf9741b60}
+      \strng{bibnamehash}{7473b077f4187b2262bbaffbf9741b60}
+      \strng{authorbibnamehash}{7473b077f4187b2262bbaffbf9741b60}
+      \strng{authornamehash}{7473b077f4187b2262bbaffbf9741b60}
+      \strng{authorfullhash}{7473b077f4187b2262bbaffbf9741b60}
+      \field{extraname}{1}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Full-year 2024 results}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.capgemini.com/de-de/news/pressemitteilung/full-year-2024-results/
+      \endverb
+      \verb{url}
+      \verb https://www.capgemini.com/de-de/news/pressemitteilung/full-year-2024-results/
+      \endverb
+      \warn{\item online entry 'Capgemini_allgemein' (bibliography.bib): Invalid format '18.02.2025' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{Capgemini_invent}{online}{}
+      \name{author}{1}{}{%
+        {{hash=7473b077f4187b2262bbaffbf9741b60}{%
+           family={Capgemini},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{7473b077f4187b2262bbaffbf9741b60}
+      \strng{fullhash}{7473b077f4187b2262bbaffbf9741b60}
+      \strng{bibnamehash}{7473b077f4187b2262bbaffbf9741b60}
+      \strng{authorbibnamehash}{7473b077f4187b2262bbaffbf9741b60}
+      \strng{authornamehash}{7473b077f4187b2262bbaffbf9741b60}
+      \strng{authorfullhash}{7473b077f4187b2262bbaffbf9741b60}
+      \field{extraname}{2}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Untenehmensmarke Capgemini Invent}
+      \field{urlday}{1}
+      \field{urlmonth}{1}
+      \field{urlyear}{2016}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.capgemini.com/de-de/unternehmen/wer-wir-sind/unsere-marken/capgemini-invent/
+      \endverb
+      \verb{url}
+      \verb https://www.capgemini.com/de-de/unternehmen/wer-wir-sind/unsere-marken/capgemini-invent/
+      \endverb
+    \endentry
+    \entry{Capgemini}{online}{}
+      \name{author}{1}{}{%
+        {{hash=7473b077f4187b2262bbaffbf9741b60}{%
+           family={Capgemini},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{7473b077f4187b2262bbaffbf9741b60}
+      \strng{fullhash}{7473b077f4187b2262bbaffbf9741b60}
+      \strng{bibnamehash}{7473b077f4187b2262bbaffbf9741b60}
+      \strng{authorbibnamehash}{7473b077f4187b2262bbaffbf9741b60}
+      \strng{authornamehash}{7473b077f4187b2262bbaffbf9741b60}
+      \strng{authorfullhash}{7473b077f4187b2262bbaffbf9741b60}
+      \field{extraname}{3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Muttersunternehmen Capgemini}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.capgemini.com/de-de/unternehmen/wer-wir-sind/
+      \endverb
+      \verb{url}
+      \verb https://www.capgemini.com/de-de/unternehmen/wer-wir-sind/
+      \endverb
+    \endentry
+    \entry{Capgemini_eng}{online}{}
+      \name{author}{1}{}{%
+        {{hash=7473b077f4187b2262bbaffbf9741b60}{%
+           family={Capgemini},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{7473b077f4187b2262bbaffbf9741b60}
+      \strng{fullhash}{7473b077f4187b2262bbaffbf9741b60}
+      \strng{bibnamehash}{7473b077f4187b2262bbaffbf9741b60}
+      \strng{authorbibnamehash}{7473b077f4187b2262bbaffbf9741b60}
+      \strng{authornamehash}{7473b077f4187b2262bbaffbf9741b60}
+      \strng{authorfullhash}{7473b077f4187b2262bbaffbf9741b60}
+      \field{extraname}{4}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Unternehmensmarke Capgemini Engineering}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.capgemini.com/de-de/unternehmen/wer-wir-sind/unsere-marken/capgemini-engineering/
+      \endverb
+      \verb{url}
+      \verb https://www.capgemini.com/de-de/unternehmen/wer-wir-sind/unsere-marken/capgemini-engineering/
+      \endverb
+    \endentry
+    \entry{Sogeti}{online}{}
+      \name{author}{1}{}{%
+        {{hash=7473b077f4187b2262bbaffbf9741b60}{%
+           family={Capgemini},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{7473b077f4187b2262bbaffbf9741b60}
+      \strng{fullhash}{7473b077f4187b2262bbaffbf9741b60}
+      \strng{bibnamehash}{7473b077f4187b2262bbaffbf9741b60}
+      \strng{authorbibnamehash}{7473b077f4187b2262bbaffbf9741b60}
+      \strng{authornamehash}{7473b077f4187b2262bbaffbf9741b60}
+      \strng{authorfullhash}{7473b077f4187b2262bbaffbf9741b60}
+      \field{extraname}{5}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Unternehmensmarke Sogeti}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.capgemini.com/de-de/unternehmen/wer-wir-sind/unsere-marken/sogeti/
+      \endverb
+      \verb{url}
+      \verb https://www.capgemini.com/de-de/unternehmen/wer-wir-sind/unsere-marken/sogeti/
+      \endverb
+    \endentry
+    \entry{timinger2024modernes}{book}{}
+      \name{author}{1}{}{%
+        {{hash=0cd90e757829dcb1e63ce859b9e6404d}{%
+           family={Timinger},
+           familyi={T\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{0cd90e757829dcb1e63ce859b9e6404d}
+      \strng{fullhash}{0cd90e757829dcb1e63ce859b9e6404d}
+      \strng{bibnamehash}{0cd90e757829dcb1e63ce859b9e6404d}
+      \strng{authorbibnamehash}{0cd90e757829dcb1e63ce859b9e6404d}
+      \strng{authornamehash}{0cd90e757829dcb1e63ce859b9e6404d}
+      \strng{authorfullhash}{0cd90e757829dcb1e63ce859b9e6404d}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9783527841639}
+      \field{title}{Modernes Projektmanagement: Mit traditionellem, agilem und hybridem Vorgehen zum Erfolg}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://books.google.de/books?id=hgbzEAAAQBAJ
+      \endverb
+      \verb{url}
+      \verb https://books.google.de/books?id=hgbzEAAAQBAJ
+      \endverb
+    \endentry
+    \entry{wegmann2006projektmanagement}{book}{}
+      \name{author}{2}{}{%
+        {{hash=771a27b4c0b4260f1b5eb235431b5d96}{%
+           family={Wegmann},
+           familyi={W\bibinitperiod},
+           given={Christoph},
+           giveni={C\bibinitperiod}}}%
+        {{hash=060996b3011d75eee28f5c394e7f7015}{%
+           family={Winklbauer},
+           familyi={W\bibinitperiod},
+           given={Holger},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{18fa2b914de8940f51dc1375a4b16197}
+      \strng{fullhash}{18fa2b914de8940f51dc1375a4b16197}
+      \strng{bibnamehash}{18fa2b914de8940f51dc1375a4b16197}
+      \strng{authorbibnamehash}{18fa2b914de8940f51dc1375a4b16197}
+      \strng{authornamehash}{18fa2b914de8940f51dc1375a4b16197}
+      \strng{authorfullhash}{18fa2b914de8940f51dc1375a4b16197}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Projektmanagement für Unternehmensberatungen}
+      \field{year}{2006}
+    \endentry
+    \entry{stark2011product}{book}{}
+      \name{author}{1}{}{%
+        {{hash=a94eda420a53c13bb1b11717359880c1}{%
+           family={Stark},
+           familyi={S\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{a94eda420a53c13bb1b11717359880c1}
+      \strng{fullhash}{a94eda420a53c13bb1b11717359880c1}
+      \strng{bibnamehash}{a94eda420a53c13bb1b11717359880c1}
+      \strng{authorbibnamehash}{a94eda420a53c13bb1b11717359880c1}
+      \strng{authornamehash}{a94eda420a53c13bb1b11717359880c1}
+      \strng{authorfullhash}{a94eda420a53c13bb1b11717359880c1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Product Lifecycle Management: 21st century paradigm for product realisation}
+      \field{title}{Product lifecycle management}
+      \field{year}{2011}
+      \field{pages}{1\bibrangedash 16}
+      \range{pages}{16}
+    \endentry
+    \entry{ozturk2019product}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=3ee8af63ed2247064f9c61f8e4a9bfb5}{%
+           family={Öztürk},
+           familyi={Ö\bibinitperiod},
+           given={Fatih},
+           giveni={F\bibinitperiod}}}%
+        {{hash=0c37064c5965b8b86a317804481a7fdb}{%
+           family={Kayar},
+           familyi={K\bibinitperiod},
+           given={Adem},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{0eed328d2538357f156ea67315e26f20}
+      \strng{fullhash}{0eed328d2538357f156ea67315e26f20}
+      \strng{bibnamehash}{0eed328d2538357f156ea67315e26f20}
+      \strng{authorbibnamehash}{0eed328d2538357f156ea67315e26f20}
+      \strng{authornamehash}{0eed328d2538357f156ea67315e26f20}
+      \strng{authorfullhash}{0eed328d2538357f156ea67315e26f20}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of 10th international symposium on intelligent manufacturing and service systems. Istanbul/Turkey}
+      \field{title}{Product lifecycle management in smart factories: industry 4.0 applications}
+      \field{year}{2019}
+    \endentry
+    \entry{PLM1}{online}{}
+      \name{author}{1}{}{%
+        {{hash=18bfab6309a4addeb7e1dae07d2a4b89}{%
+           family={Gartner},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{18bfab6309a4addeb7e1dae07d2a4b89}
+      \strng{fullhash}{18bfab6309a4addeb7e1dae07d2a4b89}
+      \strng{bibnamehash}{18bfab6309a4addeb7e1dae07d2a4b89}
+      \strng{authorbibnamehash}{18bfab6309a4addeb7e1dae07d2a4b89}
+      \strng{authornamehash}{18bfab6309a4addeb7e1dae07d2a4b89}
+      \strng{authorfullhash}{18bfab6309a4addeb7e1dae07d2a4b89}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{PLM Software in Discrete Manufacturing Industries Reviews}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb hhttps://www.gartner.com/reviews/market/plm-software-in-discrete-manufacturing-industries
+      \endverb
+      \verb{url}
+      \verb hhttps://www.gartner.com/reviews/market/plm-software-in-discrete-manufacturing-industries
+      \endverb
+    \endentry
+    \entry{Top10PLMVendoren}{online}{}
+      \name{author}{1}{}{%
+        {{hash=3b889b17df15216197e41468179675ad}{%
+           family={World},
+           familyi={W\bibinitperiod},
+           given={Apps\bibnamedelima Run},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod},
+           prefix={the},
+           prefixi={t\bibinitperiod}}}%
+      }
+      \strng{namehash}{3b889b17df15216197e41468179675ad}
+      \strng{fullhash}{3b889b17df15216197e41468179675ad}
+      \strng{bibnamehash}{3b889b17df15216197e41468179675ad}
+      \strng{authorbibnamehash}{3b889b17df15216197e41468179675ad}
+      \strng{authornamehash}{3b889b17df15216197e41468179675ad}
+      \strng{authorfullhash}{3b889b17df15216197e41468179675ad}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Top 10 PLM and Engineering Software Vendors}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.appsruntheworld.com/top-10-product-lifecycle-management-engineering-software-vendors-and-market-forecast/
+      \endverb
+      \verb{url}
+      \verb https://www.appsruntheworld.com/top-10-product-lifecycle-management-engineering-software-vendors-and-market-forecast/
+      \endverb
+    \endentry
+    \entry{Dessault}{online}{}
+      \name{author}{1}{}{%
+        {{hash=2e29244292936a5214d7b1f0119797e2}{%
+           family={Systèmes},
+           familyi={S\bibinitperiod},
+           given={Dassault},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{2e29244292936a5214d7b1f0119797e2}
+      \strng{fullhash}{2e29244292936a5214d7b1f0119797e2}
+      \strng{bibnamehash}{2e29244292936a5214d7b1f0119797e2}
+      \strng{authorbibnamehash}{2e29244292936a5214d7b1f0119797e2}
+      \strng{authornamehash}{2e29244292936a5214d7b1f0119797e2}
+      \strng{authorfullhash}{2e29244292936a5214d7b1f0119797e2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Was ist Dassault Systèmes?}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.3ds.com/about
+      \endverb
+      \verb{url}
+      \verb https://www.3ds.com/about
+      \endverb
+    \endentry
+    \entry{PTC}{online}{}
+      \name{author}{1}{}{%
+        {{hash=d9f6606c99caf62db9d1f67613bc08c1}{%
+           family={Corparation},
+           familyi={C\bibinitperiod},
+           given={Parametric\bibnamedelima Technology},
+           giveni={P\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \strng{namehash}{d9f6606c99caf62db9d1f67613bc08c1}
+      \strng{fullhash}{d9f6606c99caf62db9d1f67613bc08c1}
+      \strng{bibnamehash}{d9f6606c99caf62db9d1f67613bc08c1}
+      \strng{authorbibnamehash}{d9f6606c99caf62db9d1f67613bc08c1}
+      \strng{authornamehash}{d9f6606c99caf62db9d1f67613bc08c1}
+      \strng{authorfullhash}{d9f6606c99caf62db9d1f67613bc08c1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Companies That Make Products the World Relies on, Rely on PTC}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.ptc.com/en/about
+      \endverb
+      \verb{url}
+      \verb https://www.ptc.com/en/about
+      \endverb
+    \endentry
+    \entry{Siemens}{online}{}
+      \name{author}{1}{}{%
+        {{hash=45fbb2e867b24649601db7d62860b525}{%
+           family={Software},
+           familyi={S\bibinitperiod},
+           given={Siemens\bibnamedelimb Digital\bibnamedelima Industries},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+      }
+      \strng{namehash}{45fbb2e867b24649601db7d62860b525}
+      \strng{fullhash}{45fbb2e867b24649601db7d62860b525}
+      \strng{bibnamehash}{45fbb2e867b24649601db7d62860b525}
+      \strng{authorbibnamehash}{45fbb2e867b24649601db7d62860b525}
+      \strng{authornamehash}{45fbb2e867b24649601db7d62860b525}
+      \strng{authorfullhash}{45fbb2e867b24649601db7d62860b525}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Transform the everyday with software from Siemens}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.sw.siemens.com/en-US/
+      \endverb
+      \verb{url}
+      \verb https://www.sw.siemens.com/en-US/
+      \endverb
+    \endentry
+    \entry{Aras}{online}{}
+      \name{author}{1}{}{%
+        {{hash=2b861f76ccb190eaf8e67f0bb8e484a5}{%
+           family={Aras},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{2b861f76ccb190eaf8e67f0bb8e484a5}
+      \strng{fullhash}{2b861f76ccb190eaf8e67f0bb8e484a5}
+      \strng{bibnamehash}{2b861f76ccb190eaf8e67f0bb8e484a5}
+      \strng{authorbibnamehash}{2b861f76ccb190eaf8e67f0bb8e484a5}
+      \strng{authornamehash}{2b861f76ccb190eaf8e67f0bb8e484a5}
+      \strng{authorfullhash}{2b861f76ccb190eaf8e67f0bb8e484a5}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{An Application Platform for Modern Product Lifecycle Management}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://aras.com/en
+      \endverb
+      \verb{url}
+      \verb https://aras.com/en
+      \endverb
+    \endentry
+    \entry{muhonen2013qualification}{article}{}
+      \name{author}{1}{}{%
+        {{hash=84f33100a462656d3c05b650f2f992f1}{%
+           family={Muhonen},
+           familyi={M\bibinitperiod},
+           given={Markus},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Jyväskylän ammattikorkeakoulu}%
+      }
+      \strng{namehash}{84f33100a462656d3c05b650f2f992f1}
+      \strng{fullhash}{84f33100a462656d3c05b650f2f992f1}
+      \strng{bibnamehash}{84f33100a462656d3c05b650f2f992f1}
+      \strng{authorbibnamehash}{84f33100a462656d3c05b650f2f992f1}
+      \strng{authornamehash}{84f33100a462656d3c05b650f2f992f1}
+      \strng{authorfullhash}{84f33100a462656d3c05b650f2f992f1}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Qualification and Software Demonstration as part of sales process}
+      \field{year}{2013}
+    \endentry
+    \entry{Confluence}{online}{}
+      \name{author}{1}{}{%
+        {{hash=a8fd8cd0b6d2cfda939a8ef257e60192}{%
+           family={Atlassian},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{a8fd8cd0b6d2cfda939a8ef257e60192}
+      \strng{fullhash}{a8fd8cd0b6d2cfda939a8ef257e60192}
+      \strng{bibnamehash}{a8fd8cd0b6d2cfda939a8ef257e60192}
+      \strng{authorbibnamehash}{a8fd8cd0b6d2cfda939a8ef257e60192}
+      \strng{authornamehash}{a8fd8cd0b6d2cfda939a8ef257e60192}
+      \strng{authorfullhash}{a8fd8cd0b6d2cfda939a8ef257e60192}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Confluence}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://support.atlassian.com/confluence-cloud/resources/
+      \endverb
+      \verb{url}
+      \verb https://support.atlassian.com/confluence-cloud/resources/
+      \endverb
+    \endentry
+    \entry{SharePoint}{online}{}
+      \name{author}{1}{}{%
+        {{hash=140864078aeca1c7c35b4beb33c53c34}{%
+           family={Microsoft},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{fullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{bibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorbibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authornamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorfullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \field{extraname}{1}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{SharePoint}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://support.microsoft.com/en-us/sharepoint
+      \endverb
+      \verb{url}
+      \verb https://support.microsoft.com/en-us/sharepoint
+      \endverb
+    \endentry
+    \entry{List}{online}{}
+      \name{author}{1}{}{%
+        {{hash=140864078aeca1c7c35b4beb33c53c34}{%
+           family={Microsoft},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{fullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{bibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorbibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authornamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorfullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \field{extraname}{2}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Microsoft Lists}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.microsoft.com/en-us/microsoft-365/microsoft-lists
+      \endverb
+      \verb{url}
+      \verb https://www.microsoft.com/en-us/microsoft-365/microsoft-lists
+      \endverb
+    \endentry
+    \entry{aro2023using}{article}{}
+      \name{author}{1}{}{%
+        {{hash=1b27c59546b0204c466235367ace5e99}{%
+           family={Aro},
+           familyi={A\bibinitperiod},
+           given={Ismo},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{1b27c59546b0204c466235367ace5e99}
+      \strng{fullhash}{1b27c59546b0204c466235367ace5e99}
+      \strng{bibnamehash}{1b27c59546b0204c466235367ace5e99}
+      \strng{authorbibnamehash}{1b27c59546b0204c466235367ace5e99}
+      \strng{authornamehash}{1b27c59546b0204c466235367ace5e99}
+      \strng{authorfullhash}{1b27c59546b0204c466235367ace5e99}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Using Digital Dashboards and KPIs for Visually Managing a Consulting Company with Shared Ownership}
+      \field{year}{2023}
+    \endentry
+    \entry{kald2000performance}{article}{}
+      \name{author}{2}{}{%
+        {{hash=316bfdc5d5bc23f34de16dd2688ef333}{%
+           family={Kald},
+           familyi={K\bibinitperiod},
+           given={Magnus},
+           giveni={M\bibinitperiod}}}%
+        {{hash=32b782f10274b38bb1fec870aa079a24}{%
+           family={Nilsson},
+           familyi={N\bibinitperiod},
+           given={Fredrik},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{9d571d8d4f0f204f421da725f9d56b6d}
+      \strng{fullhash}{9d571d8d4f0f204f421da725f9d56b6d}
+      \strng{bibnamehash}{9d571d8d4f0f204f421da725f9d56b6d}
+      \strng{authorbibnamehash}{9d571d8d4f0f204f421da725f9d56b6d}
+      \strng{authornamehash}{9d571d8d4f0f204f421da725f9d56b6d}
+      \strng{authorfullhash}{9d571d8d4f0f204f421da725f9d56b6d}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{European Management Journal}
+      \field{number}{1}
+      \field{title}{Performance measurement at Nordic companies}
+      \field{volume}{18}
+      \field{year}{2000}
+      \field{pages}{113\bibrangedash 127}
+      \range{pages}{15}
+    \endentry
+    \entry{Tableua}{online}{}
+      \name{author}{1}{}{%
+        {{hash=4a6dbb2ff650f82af801f71c3efd72c3}{%
+           family={Salesforce},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{4a6dbb2ff650f82af801f71c3efd72c3}
+      \strng{fullhash}{4a6dbb2ff650f82af801f71c3efd72c3}
+      \strng{bibnamehash}{4a6dbb2ff650f82af801f71c3efd72c3}
+      \strng{authorbibnamehash}{4a6dbb2ff650f82af801f71c3efd72c3}
+      \strng{authornamehash}{4a6dbb2ff650f82af801f71c3efd72c3}
+      \strng{authorfullhash}{4a6dbb2ff650f82af801f71c3efd72c3}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Tableau}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.tableau.com/
+      \endverb
+      \verb{url}
+      \verb https://www.tableau.com/
+      \endverb
+    \endentry
+    \entry{DAX}{online}{}
+      \name{author}{1}{}{%
+        {{hash=140864078aeca1c7c35b4beb33c53c34}{%
+           family={Microsoft},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{fullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{bibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorbibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authornamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorfullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \field{extraname}{3}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Datenanalyseausdrücke (DAX)}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://learn.microsoft.com/de-de/dax/
+      \endverb
+      \verb{url}
+      \verb https://learn.microsoft.com/de-de/dax/
+      \endverb
+    \endentry
+    \entry{norton1996balanced}{book}{}
+      \name{author}{1}{}{%
+        {{hash=5dc703ff91f89f189dc73db5f637fcfa}{%
+           family={Norton\bibnamedelima David},
+           familyi={N\bibinitperiod\bibinitdelim D\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Harvard Business School Press}%
+      }
+      \strng{namehash}{5dc703ff91f89f189dc73db5f637fcfa}
+      \strng{fullhash}{5dc703ff91f89f189dc73db5f637fcfa}
+      \strng{bibnamehash}{5dc703ff91f89f189dc73db5f637fcfa}
+      \strng{authorbibnamehash}{5dc703ff91f89f189dc73db5f637fcfa}
+      \strng{authornamehash}{5dc703ff91f89f189dc73db5f637fcfa}
+      \strng{authorfullhash}{5dc703ff91f89f189dc73db5f637fcfa}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The balanced scorecard: translating strategy into action}
+      \field{year}{1996}
+      \true{nocite}
+    \endentry
+    \entry{Power_BI}{online}{}
+      \name{author}{1}{}{%
+        {{hash=140864078aeca1c7c35b4beb33c53c34}{%
+           family={Microsoft},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{fullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{bibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorbibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authornamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorfullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \field{extraname}{4}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Power BI}
+      \field{year}{2025}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://learn.microsoft.com/en-us/power-bi/fundamentals/power-bi-overview
+      \endverb
+      \verb{url}
+      \verb https://learn.microsoft.com/en-us/power-bi/fundamentals/power-bi-overview
+      \endverb
+    \endentry
+    \entry{ernst2010sales}{article}{}
+      \name{author}{3}{}{%
+        {{hash=e664c94707c9b7024d5b00e74ea7d8ab}{%
+           family={Ernst},
+           familyi={E\bibinitperiod},
+           given={Holger},
+           giveni={H\bibinitperiod}}}%
+        {{hash=67d45397674d8a1177305845e2940a15}{%
+           family={Hoyer},
+           familyi={H\bibinitperiod},
+           given={Wayne\bibnamedelima D},
+           giveni={W\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=7ecaab9cb057563da362ab2d47fea686}{%
+           family={Rübsaamen},
+           familyi={R\bibinitperiod},
+           given={Carsten},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications Sage CA: Los Angeles, CA}%
+      }
+      \strng{namehash}{ecf29428f276c208171f5d74dc0f7808}
+      \strng{fullhash}{ecf29428f276c208171f5d74dc0f7808}
+      \strng{bibnamehash}{ecf29428f276c208171f5d74dc0f7808}
+      \strng{authorbibnamehash}{ecf29428f276c208171f5d74dc0f7808}
+      \strng{authornamehash}{ecf29428f276c208171f5d74dc0f7808}
+      \strng{authorfullhash}{ecf29428f276c208171f5d74dc0f7808}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Marketing}
+      \field{title}{Sales, marketing, and research-and-development cooperation across new product development stages: implications for success}
+      \field{year}{2010}
+      \true{nocite}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

@@ -1,0 +1,17 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'master.blg'
+[94] biber-MSWIN64:340> INFO - === 
+[128] Biber.pm:419> INFO - Reading 'master.bcf'
+[211] Biber.pm:976> INFO - Using all citekeys in bib section 0
+[223] Biber.pm:4419> INFO - Processing section 0
+[233] Biber.pm:4610> INFO - Looking for bibtex file 'bibliography.bib' for section 0
+[273] bibtex.pm:1713> INFO - LaTeX decoding ...
+[386] bibtex.pm:1519> INFO - Found BibTeX data source 'bibliography.bib'
+[486] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[487] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[487] Biber.pm:4239> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'de-DE'
+[487] Biber.pm:4245> INFO - No sort tailoring available for locale 'de-DE'
+[501] bbl.pm:660> INFO - Writing 'master.bbl' with encoding 'UTF-8'
+[508] bbl.pm:763> INFO - Output to master.bbl
+[509] Biber.pm:131> WARN - online entry 'Capgemini_allgemein' (bibliography.bib): Invalid format '18.02.2025' of date field 'urldate' - ignoring
+[509] Biber.pm:133> INFO - WARNINGS: 1
